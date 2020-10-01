@@ -1,0 +1,1125 @@
+{
+    "lens_id": "c16f20dc-93e0-4e98-92b3-fcc265523218",
+    "document_id": "UO2KhlrVjrsmZ4IvuSIH",
+    "original_document_id": "UO2KhlrVjrsmZ4IvuSIH",
+    "version": "20",
+    "lastChanged": "1578071712347",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-01-02T16:51:56.813Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Eye"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Full"
+                    ],
+                    [
+                        "Textures",
+                        "Face Substitution Points",
+                        "Lips"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "insta"
+                    ],
+                    [
+                        "left"
+                    ],
+                    [
+                        "left 2"
+                    ],
+                    [
+                        "left epic"
+                    ],
+                    [
+                        "right"
+                    ],
+                    [
+                        "watermark3"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1495032264252211:307",
+                    "1517441814990953:60249",
+                    "1518738355034989:4972",
+                    "1518738368871047:5072",
+                    "1518738620434896:6325",
+                    "1518739920773388:14636",
+                    "1518740425092533:30109",
+                    "1518742391821707:46940",
+                    "1518819922774689:6051",
+                    "1518819930409093:6924",
+                    "1520544465201565:102906",
+                    "1521490866434626:52742",
+                    "1521490875811835:53517",
+                    "1521491246967963:55784",
+                    "1521494175809770:9532",
+                    "1521494391227878:18381",
+                    "1521494580408207:33027",
+                    "1521495292005641:46725",
+                    "1521495518155367:60883",
+                    "1522715350125018:54292",
+                    "1522715568286999:62089",
+                    "1522715649357667:76002",
+                    "1522715685110476:86670",
+                    "1522715741066050:102946",
+                    "1522715758731286:105644",
+                    "1522715790065744:119842"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "0bad3fb4cbc262f639e1fef7923f7229",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Alita Battle Angel",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "local:C:\/Users\/antar\/Desktop\/d5172367-60f0-4a7e-b28d-3f9756a668c7.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 2.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1518738355038666:4975",
+                    "1518810897835563:17108",
+                    "1518820769291880:4742",
+                    "1518827517865368:16589",
+                    "1518829714010749:22806",
+                    "1521488619528459:18364",
+                    "1521489603228781:38586",
+                    "1521489615677105:40162",
+                    "1521490042715772:45879",
+                    "1521657197245321:130044",
+                    "1521657247014955:132210",
+                    "1521689616150571:3805",
+                    "1522715354903623:54305",
+                    "1522715372577759:56331",
+                    "1522715469525743:59251",
+                    "1577978299081109:17247",
+                    "1577978573007420:19194"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1521592506041362:29488",
+                    "name": "\/Resources\/Resource137.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "138",
+                    "uid": "1521592506123858:29501",
+                    "name": "\/Resources\/Resource138.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1521592506217607:29514",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1521597812605999:3760",
+                    "name": "\/Resources\/Resource141.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "9"
+                },
+                {
+                    "resId": "142",
+                    "uid": "1521597812622035:3769",
+                    "name": "\/Resources\/Resource142.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "9"
+                },
+                {
+                    "resId": "143",
+                    "uid": "1577976478775593:5803",
+                    "name": "Files\/File25.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "144",
+                    "uid": "1577977285545369:11992",
+                    "name": "Files\/File27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "145",
+                    "uid": "1577977629522635:13001",
+                    "name": "Files\/File29.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "146",
+                    "uid": "1577977973835285:14217",
+                    "name": "Files\/File31.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "148",
+                    "uid": "1577981129293212:49864",
+                    "name": "Files\/File35.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "150",
+                    "uid": "1577983701031601:67627",
+                    "name": "Files\/File40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1578030449269285:3241",
+                    "name": "Files\/File42.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1577981019842768:45823",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577981019907486:45957",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577982939105125:55848",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1577991834882845:8690",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517441814990953:60249",
+                "1": "1517441814991005:60252",
+                "2": "1517441814991119:60258",
+                "3": "1518738355034989:4972",
+                "4": "1520544465201565:102906",
+                "5": "1521490866434626:52742",
+                "6": "1521689616150571:3805",
+                "7": "1522715350125018:54292",
+                "8": "1522715354903623:54305",
+                "9": "1522715372577759:56331",
+                "10": "1522715469525743:59251",
+                "11": "1522715568286999:62089",
+                "12": "1522715598855322:65724",
+                "13": "1522715616001179:69442",
+                "14": "1577978299081109:17247",
+                "15": "1577978299081915:17248",
+                "16": "1577978299119651:17303",
+                "17": "1577978573007420:19194",
+                "18": "1577981019753860:45756",
+                "19": "1577981019841545:45821",
+                "20": "1577981019907099:45956",
+                "21": "1577982939104581:55846",
+                "22": "1577983686308689:65432",
+                "23": "1577991834839845:8554",
+                "24": "1577991834882579:8689"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.png"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/Face Substitution Points"
+                    },
+                    {
+                        "k": "3",
+                        "v": "Textures\/Face Substitution Points\/Eye.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures\/Face Substitution Points\/Full.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Textures\/Face Substitution Points\/Lips.png"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Face Paint"
+                    },
+                    {
+                        "k": "34",
+                        "v": "left.png"
+                    },
+                    {
+                        "k": "35",
+                        "v": "right.png"
+                    },
+                    {
+                        "k": "36",
+                        "v": "left 2.png"
+                    },
+                    {
+                        "k": "37",
+                        "v": "left epic.png"
+                    },
+                    {
+                        "k": "39",
+                        "v": "watermark3.png"
+                    },
+                    {
+                        "k": "41",
+                        "v": "insta.png"
+                    },
+                    {
+                        "k": "42",
+                        "v": "cropped-alita-battle-angel.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "3",
+                        "v": "98b380616d4bfed1d0f4bc1dae59944a"
+                    },
+                    {
+                        "k": "4",
+                        "v": "11f4d5b93501561a110fa6434d320c06"
+                    },
+                    {
+                        "k": "5",
+                        "v": "c3712766256cc2c114e8e8f697694047"
+                    },
+                    {
+                        "k": "6",
+                        "v": "311a76924cee5e58d7271449b3bd1b2e"
+                    },
+                    {
+                        "k": "7",
+                        "v": "f52bc2d64df8998994aa36365eddbf6f"
+                    },
+                    {
+                        "k": "10",
+                        "v": "2f118712bba6583028996fc0c2486420"
+                    },
+                    {
+                        "k": "11",
+                        "v": "dfd7e5f0597cb26a02ad1d960b016843"
+                    },
+                    {
+                        "k": "13",
+                        "v": "bb09e3e1c8c09f13e9bd555cfa7db133"
+                    },
+                    {
+                        "k": "14",
+                        "v": "3349e862d602cd97ce11343ab4db2bb4"
+                    },
+                    {
+                        "k": "15",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "17",
+                        "v": "e14237312b3bb7abbedc2134bdf55f33"
+                    },
+                    {
+                        "k": "18",
+                        "v": "a40ee5172258a770f833604756100e89"
+                    },
+                    {
+                        "k": "19",
+                        "v": "25b02f90d45fa85d25b0d5ec22c93381"
+                    },
+                    {
+                        "k": "21",
+                        "v": "756ee50b55f2a8dfd96546f78caa9510"
+                    },
+                    {
+                        "k": "22",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "23",
+                        "v": "7077c307c97eac06ac748600338d5484"
+                    },
+                    {
+                        "k": "24",
+                        "v": "0381b263eef4ee605d3d3b8d78aed401"
+                    },
+                    {
+                        "k": "26",
+                        "v": "d62d8d2214c908b0de8492bb192106b8"
+                    },
+                    {
+                        "k": "27",
+                        "v": "0e40f7e6e676928371c0485da4113638"
+                    },
+                    {
+                        "k": "28",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "30",
+                        "v": "97d2aa16a7c133c1312f46bc31496b9a"
+                    },
+                    {
+                        "k": "31",
+                        "v": "a8bbeb205ee118ae8a2238b3d17e7a88"
+                    },
+                    {
+                        "k": "32",
+                        "v": "027c5785a7afa5e0225d8930b8297867"
+                    },
+                    {
+                        "k": "33",
+                        "v": "700c853ad34480e6c8d973928d7d98a4"
+                    },
+                    {
+                        "k": "34",
+                        "v": "8a9a6c96a73788136f952250e5598c95"
+                    },
+                    {
+                        "k": "35",
+                        "v": "877b77c461190386a394a630a219a417"
+                    },
+                    {
+                        "k": "36",
+                        "v": "f3d7a9c6c2b27336278bd3e964d4104b"
+                    },
+                    {
+                        "k": "37",
+                        "v": "b6390f7fe54bcb1e438d362ed0007e35"
+                    },
+                    {
+                        "k": "38",
+                        "v": "edb5f950934136909172e21fc49191f8"
+                    },
+                    {
+                        "k": "39",
+                        "v": "93c3690b15b3881d3375857830da4be8"
+                    },
+                    {
+                        "k": "40",
+                        "v": "d148a1844b0148a75efa5b5d236be384"
+                    },
+                    {
+                        "k": "41",
+                        "v": "d20a95abab7c5d9352409e052dd79c46"
+                    },
+                    {
+                        "k": "42",
+                        "v": "e0a8600d3a9a7c699784159fbcdb2b44"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-01-03T10:05:22",
+                        "name": "Public",
+                        "hash": "c479eb9323f3e030d2774c00dd0f6620",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-03T09:49:07",
+                                "name": "cropped-alita-battle-angel.png",
+                                "hash": "e0a8600d3a9a7c699784159fbcdb2b44",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-03T11:23:01",
+                                "name": "Face Paint",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T15:52:46",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-11T15:52:46",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-02T22:16:50",
+                                "name": "insta.png",
+                                "hash": "d20a95abab7c5d9352409e052dd79c46",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-02T20:36:43",
+                                "name": "left 2.png",
+                                "hash": "f3d7a9c6c2b27336278bd3e964d4104b",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-02T20:42:43",
+                                "name": "left epic.png",
+                                "hash": "b6390f7fe54bcb1e438d362ed0007e35",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-02T20:13:37",
+                                "name": "left.png",
+                                "hash": "8a9a6c96a73788136f952250e5598c95",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-02T20:30:19",
+                                "name": "right.png",
+                                "hash": "877b77c461190386a394a630a219a417",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-02T20:45:05",
+                                "name": "Textures",
+                                "hash": "07105c41eb580dc4ad0eb3cc23e41353",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T15:52:46",
+                                        "name": "echopark_diff.png",
+                                        "hash": "311a76924cee5e58d7271449b3bd1b2e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T15:52:46",
+                                        "name": "echopark_spec.png",
+                                        "hash": "f52bc2d64df8998994aa36365eddbf6f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-02T20:45:05",
+                                        "name": "Face Substitution Points",
+                                        "hash": "0316dc8f1fb77950f082899eee61586e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T15:52:46",
+                                                "name": "Eye.png",
+                                                "hash": "98b380616d4bfed1d0f4bc1dae59944a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T15:52:46",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T15:52:46",
+                                                "name": "Full.png",
+                                                "hash": "11f4d5b93501561a110fa6434d320c06",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T15:52:48",
+                                                "name": "Lips.png",
+                                                "hash": "c3712766256cc2c114e8e8f697694047",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T15:52:46",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-10-26T02:15:34",
+                                "name": "watermark3.png",
+                                "hash": "93c3690b15b3881d3375857830da4be8",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face Substitution Points",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Eye",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "137",
+                                        "dependency": "0",
+                                        "uid": "1521592506041362:29488",
+                                        "fileId": "20",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "3",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Full",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "138",
+                                        "dependency": "0",
+                                        "uid": "1521592506123858:29501",
+                                        "fileId": "21",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "4",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Lips",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "139",
+                                        "dependency": "0",
+                                        "uid": "1521592506217607:29514",
+                                        "fileId": "22",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "5",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "141",
+                                "dependency": "0",
+                                "uid": "1521597812605999:3760",
+                                "fileId": "23",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "142",
+                                "dependency": "0",
+                                "uid": "1521597812622035:3769",
+                                "fileId": "24",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "left",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "143",
+                        "dependency": "0",
+                        "uid": "1577976478775593:5803",
+                        "fileId": "25",
+                        "originalId": "26",
+                        "publicId": "34",
+                        "source": "D:\/Artworks\/Alita AR\/left.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "right",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "144",
+                        "dependency": "0",
+                        "uid": "1577977285545369:11992",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "35",
+                        "source": "D:\/Artworks\/Alita AR\/right.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "left 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "145",
+                        "dependency": "0",
+                        "uid": "1577977629522635:13001",
+                        "fileId": "29",
+                        "originalId": "30",
+                        "publicId": "36",
+                        "source": "D:\/Artworks\/Alita AR\/left.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "left epic",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "146",
+                        "dependency": "0",
+                        "uid": "1577977973835285:14217",
+                        "fileId": "31",
+                        "originalId": "32",
+                        "publicId": "37",
+                        "source": "D:\/Artworks\/Alita AR\/left epic.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "watermark3",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "148",
+                        "dependency": "0",
+                        "uid": "1577981129293212:49864",
+                        "fileId": "35",
+                        "originalId": "36",
+                        "publicId": "39",
+                        "source": "D:\/Utopian Corps\/watermark3.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "insta",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "150",
+                        "dependency": "0",
+                        "uid": "1577983701031601:67627",
+                        "fileId": "40",
+                        "originalId": "41",
+                        "publicId": "41",
+                        "source": "C:\/Users\/antar\/Desktop\/insta.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Paint",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
+                        "resources": ""
+                    },
+                    {
+                        "name": "cropped-alita-battle-angel",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "151",
+                        "dependency": "0",
+                        "uid": "1578030449269285:3241",
+                        "fileId": "42",
+                        "originalId": "43",
+                        "publicId": "42",
+                        "source": "D:\/Snapchat AR\/alita\/Public\/cropped-alita-battle-angel.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
